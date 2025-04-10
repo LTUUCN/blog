@@ -5275,7 +5275,7 @@ span.tags-punctuation {
   margin-top: 0;
   display: flex;
   flex-wrap: wrap;
-  animation: rowup 60s linear infinite;
+  animation: rowup 20s linear infinite;
   width: 300px;
   margin-left: auto;
 }
@@ -7243,7 +7243,7 @@ i.bber-gotobb {
   margin-top: 40px;
   display: flex;
   flex-wrap: nowrap;
-  animation: rowleft-quarter 30s linear infinite;
+  animation: rowleft 20s linear infinite;
 }
 #about-page .author-content-item.skills .skills-style-group {
   position: relative;
