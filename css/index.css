@@ -7558,7 +7558,7 @@ i.bber-gotobb {
 }
 #about-page .author-content-item.like-music {
   background-size: cover;
-  min-height: 300px;
+  min-height: 250px;
   color: var(--efu-white);
   overflow: hidden;
 }
@@ -7572,7 +7572,7 @@ i.bber-gotobb {
   left: 0;
 }
 #about-page .author-content-item.comic {
-  min-height: 300px;
+  min-height: 250px;
   color: var(--efu-white);
   position: relative;
 }
@@ -8065,7 +8065,7 @@ div#banners .bannerText {
 }
 .author-content-item .card-content .banner-button-group {
   position: absolute;
-  bottom: 1rem;
+  bottom: 0.8rem;
   right: 2rem;
 }
 .author-content-item .card-content .banner-button-group .banner-button {
