@@ -10,7 +10,10 @@
   overflow: hidden;
   padding: 10px;
   color: #fff !important;
-  margin: 10px auto;
+  margin: 10px 11.3px;
+  float: left;
+  width: 15% !important;
+  height: 300px !important;
 }
 .card_box::after {
   content: '';
@@ -7600,7 +7603,6 @@ i.bber-gotobb {
 #about-page .author-content-item.comic .content-bottom {
   z-index: 3;
   color: var(--efu-white);
-  pointer-events: none;
 }
 #about-page .author-content-item.comic .comic-item {
   height: 100%;
