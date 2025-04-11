@@ -11,7 +11,7 @@
   padding: 10px;
   color: #fff !important;
   margin: 10px 11.3px;
-  width: 15% !important;
+  width: calc(20% -10px) !important;
   height: 300px !important;
 }
 .card_box::after {
